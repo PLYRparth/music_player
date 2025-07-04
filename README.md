@@ -17,10 +17,13 @@ Swing (GUI)
 Java Sound API (Clip, AudioInputStream)
 
 📸 Screenshot
+
 ![image](https://github.com/user-attachments/assets/0e571427-0410-4a9b-86b4-65c163ce96d0)
+
 ![image](https://github.com/user-attachments/assets/ce078728-7132-4aa2-9150-227927fb0dd4)
 
-📁 File Support
+# 📁 File Support
+
 .wav files only (for simplicity and cross-platform compatibility)
 
 ## 📦 Installation & Running
