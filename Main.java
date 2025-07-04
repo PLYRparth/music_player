@@ -28,8 +28,8 @@ public class Main {
                 case 2 -> filePath = "src\\music2.wav";
                 case 3 -> filePath = "src\\music3.wav";
                 case 4 -> filePath = "src\\music4.wav";
-                case 5 -> System.out.println("boring admi kahi ka nikal");
-                default -> System.out.println("anpadh h kya dhank se daal");
+                case 5 -> System.out.println("OK BYE");
+                default -> System.out.println("Invalid input");
             }
 
             File file = new File(filePath);
